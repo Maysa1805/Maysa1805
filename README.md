@@ -17,6 +17,6 @@
 | 9 | 01-10-2025 | 09 | StatefulWidget | [Laporan 9](https://drive.google.com/file/d/1f_YkS3PHxsIecs6p_3xRSdrvi5tFy1u7/view?usp=drive_link) | [Repositor 9](https://github.com/Maysa1805/modul9) |
 | 10 | 	8-10-2025 | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Fluttert | [Laporan 10](https://drive.google.com/file/d/1u69Q5gpkrP2KF1DJMqxCQi01wcLh18fn/view?usp=drive_link) | [Repositor 10](https://github.com/Maysa1805/modul10) |
 | 11 | 	16-10-2025 | 11 | Manajemen State dengan GetX | [Laporan 11](https://drive.google.com/file/d/1JmlTPLsP07Pd-SGcKRayBDjg1JTmxQMF/view?usp=sharing) | [Repositor 11](https://github.com/Maysa1805/Modul11) |
-| 12 | 	5-11-2025 | 12 | Akses Lokasi dengan GPS di Flutter | - | [Modul 12](https://github.com/Maysa1805/modul12) |
-| 13 | 	19-11-2025 | 13 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | - | [Modul 13](https://github.com/Maysa1805/modul13) |
+| 12 | 	5-11-2025 | 12 | Akses Lokasi dengan GPS di Flutter | [Laporan 12](https://drive.google.com/file/d/12U0X1bf9hDguoSWKPu2XDvUFdCTMu17y/view?usp=sharing)| [Modul 12](https://github.com/Maysa1805/modul12) |
+| 13 | 	19-11-2025 | 13 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan 13](https://drive.google.com/file/d/15kHgXv4j2BKd6oCZB5tkXG3fKqnhDBgq/view?usp=drive_link) | [Modul 13](https://github.com/Maysa1805/modul13) |
 
