@@ -13,5 +13,5 @@
 | 5 | 17-09-2025 | 05 | Widget SizedBox, Spacer, dan Card | [Lihat Laporan](https://drive.google.com/file/d/1keVNiyqeJiLRdRNM3T74AaI8co5IYcxq/view?usp=drive_link) | [Modul 5](https://github.com/Maysa1805/modul5) |
 | 6 | 17-09-2025 | 06 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Lihat Laporan](https://drive.google.com/file/d/1yBj8vgliP3IVTHPTY8fwDOjTV36fKfrR/view?usp=drive_link) | [Modul 6](https://github.com/Maysa1805/modul6) |
 | 7 | 24-09-2025 | 07 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Lihat Laporan](https://drive.google.com/file/d/1cceDAUFkEY1nJ-mtSjxcdIAkVnj0zcXk/view?usp=drive_link) | [Modul 7](https://github.com/Maysa1805/modul7) |
-| 8 | 24-09-2025 | 08 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Lihat Laporan](https://drive.google.com/file/d/1l1JFVMuXzPJBO7WkgJWuhccnO87CxFG2/view?usp=drive_link) | [Modul 7](https://github.com/Maysa1805/Modul8)|
-| 9 | 01-10-2025 | 09 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | - | - |
+| 8 | 24-09-2025 | 08 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Lihat Laporan](https://drive.google.com/file/d/1l1JFVMuXzPJBO7WkgJWuhccnO87CxFG2/view?usp=drive_link) | [Modul 8](https://github.com/Maysa1805/Modul8)|
+| 9 | 01-10-2025 | 09 | StatefulWidget | - | [Modul 9] (https://github.com/Maysa1805/modul9) |
