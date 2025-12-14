@@ -17,6 +17,6 @@
 | 9 | 01-10-2025 | 09 | StatefulWidget | - | [Modul 9](https://github.com/Maysa1805/modul9) |
 | 10 | 	8-10-2025 | 10 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Fluttert | - | [Modul 10](https://github.com/Maysa1805/modul10) |
 | 11 | 	16-10-2025 | 11 | Manajemen State dengan GetX | - | [Modul 11](https://github.com/Maysa1805/Modul11) |
-| 12 | 	5-11-2025 | 12 | Akses Lokasi dengan GPS di Flutter | - | [Modul 12](https://github.com/Maysa1805/modul10) |
-| 13 | 	19-11-2025 | 13 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | - | [Modul 13](https://github.com/Maysa1805/modul10) |
+| 12 | 	5-11-2025 | 12 | Akses Lokasi dengan GPS di Flutter | - | [Modul 12](https://github.com/Maysa1805/modul12) |
+| 13 | 	19-11-2025 | 13 | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | - | [Modul 13](https://github.com/Maysa1805/modul13) |
 
